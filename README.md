@@ -194,16 +194,6 @@ print(f"Welcome to Nanditha's world of innovation! 🌟")
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="600">
 </div>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adarshk0070&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=3" alt="GitHub Trophies" />
-</div>
-
-
-
-
-
 
 ## 📈 Contribution Graph
 
