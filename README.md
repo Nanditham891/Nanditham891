@@ -19,7 +19,7 @@
 <img align="right" alt="Coding" width="320" src="https://i.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
 ```python
-class AdarshK:
+class Nanditha K M:
     def __init__(self):
         self.name = "Nanditha K M"
         self.role = "Full Stack Developer 💻"
@@ -51,7 +51,7 @@ class AdarshK:
         return "Turning coffee into code, bugs into features! ☕→💻"
 
 developer = Nanditha K M()
-print(f"Welcome to {developer.name}'s world of innovation! 🌟")
+print(f"Welcome to Nanditha's world of innovation! 🌟")
 ```
 
 
