@@ -21,7 +21,7 @@
 ```python
 class AdarshK:
     def __init__(self):
-        self.name = "Adarsh K"
+        self.name = "Nanditha K M"
         self.role = "Full Stack Developer 💻"
         self.location = "India 🇮🇳"
         self.education = "Computer Science Student 🎓"
@@ -50,7 +50,7 @@ class AdarshK:
     def life_philosophy(self):
         return "Turning coffee into code, bugs into features! ☕→💻"
 
-developer = AdarshK()
+developer = Nanditha K M()
 print(f"Welcome to {developer.name}'s world of innovation! 🌟")
 ```
 
@@ -169,18 +169,13 @@ print(f"Welcome to {developer.name}'s world of innovation! 🌟")
 ## 🌐 Let's Connect!
 
 <div align="center">
-  <a href="https://linkedin.com/in/adarshk0216">
+  <a href="[(https://www.linkedin.com/in/nandithak-m)]">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://instagram.com/adarsh0070">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="mailto:adarshk6678@gmail.com">
+  <a href="mailto:nanditham677@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://twitter.com/adarshk0070">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
+
 </div>
 
 
@@ -312,7 +307,7 @@ HTML         38 mins         ░░░░░░░░░░░░░░░░░
 </div>
 
 <div align="center">
-  ⭐️ From <a href="https://github.com/adarshk0070">adarshk0070</a> | Let's build something amazing together! 🚀
+  ⭐️ From <a href="https://github.com/Nanditham891">Nanditham891</a> | Let's build something amazing together! 🚀
 </div>
 
 <div align="center">
